@@ -109,10 +109,3 @@ La API estará disponible en: `http://localhost:5199`
 ## 🔗 Frontend
 
 Repositorio del frontend: [barberapp-frontend](https://github.com/hmuyba/barberapp-frontend)
-
-## 👨‍💻 Autor
-
-**Harold Muyba Castro**  
-Diplomado en Desarrollo Web y Móvil Full Stack  
-Universidad Católica Boliviana "San Pablo"  
-Diciembre 2025
